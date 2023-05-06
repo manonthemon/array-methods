@@ -11,11 +11,11 @@ This script contains examples uses of the following array methods:
 <li>.sort()</li>
 <li>.reduce()</li><br>
 
-Other concepts explored in this code:
+Other JS ideas present in this code:
 
-<li>ternary operator</li>
-<li>arrow function</li>
-<li>working with DOM</li><br>
+<li>Ternary operators</li>
+<li>Arrow functions</li>
+<li>Working with DOM</li><br>
 
 ## Copyright
 
