@@ -9,7 +9,11 @@ This script contains examples uses of the following array methods:
 <li>.filter()</li>
 <li>.map()</li>
 <li>.sort()</li>
-<li>.reduce()</li><br>
+<li>.reduce()</li>
+<li>.some()</li>
+<li>.every()</li>
+<li>.find()</li>
+<li>.findIndex()</li><br>
 
 Other JS ideas present in this code:
 
